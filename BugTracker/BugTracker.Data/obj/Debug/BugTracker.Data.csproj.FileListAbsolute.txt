@@ -1,0 +1,13 @@
+C:\Users\UniUser\Desktop\WebAndCloud\Exam\BugTracker\BugTracker.Data\bin\Debug\BugTracker.Data.dll
+C:\Users\UniUser\Desktop\WebAndCloud\Exam\BugTracker\BugTracker.Data\bin\Debug\BugTracker.Data.pdb
+C:\Users\UniUser\Desktop\WebAndCloud\Exam\BugTracker\BugTracker.Data\bin\Debug\EntityFramework.dll
+C:\Users\UniUser\Desktop\WebAndCloud\Exam\BugTracker\BugTracker.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\UniUser\Desktop\WebAndCloud\Exam\BugTracker\BugTracker.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\UniUser\Desktop\WebAndCloud\Exam\BugTracker\BugTracker.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\UniUser\Desktop\WebAndCloud\Exam\BugTracker\BugTracker.Data\bin\Debug\EntityFramework.xml
+C:\Users\UniUser\Desktop\WebAndCloud\Exam\BugTracker\BugTracker.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\UniUser\Desktop\WebAndCloud\Exam\BugTracker\BugTracker.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\UniUser\Desktop\WebAndCloud\Exam\BugTracker\BugTracker.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\UniUser\Desktop\WebAndCloud\Exam\BugTracker\BugTracker.Data\obj\Debug\BugTracker.Data.dll
+C:\Users\UniUser\Desktop\WebAndCloud\Exam\BugTracker\BugTracker.Data\obj\Debug\BugTracker.Data.pdb
+C:\Users\UniUser\Desktop\WebAndCloud\Exam\BugTracker\BugTracker.Data\obj\Debug\BugTracker.Data.csprojResolveAssemblyReference.cache
